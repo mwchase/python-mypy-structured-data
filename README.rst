@@ -40,7 +40,7 @@ Overview
 .. |codacy| image:: https://api.codacy.com/project/badge/Grade/e5dc55abb71e400094a09a5972b4e472
     :target: https://www.codacy.com/app/max-chase/python-mypy-structured-data?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mwchase/python-mypy-structured-data&amp;utm_campaign=Badge_Grade
 
-.. |codebeat| image:: https://codebeat.co/badges/de1fa625-e4d4-4e11-bf94-ee9b4a0acf91
+.. |codebeat| image:: https://codebeat.co/badges/79cece12-06a9-48f8-8433-d802058c8d02
     :target: https://codebeat.co/projects/github-com-mwchase-python-mypy-structured-data-master
     :alt: Codebeat Code Quality Status
 
