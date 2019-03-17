@@ -17,8 +17,8 @@ Overview
       - | |version| |wheel| |supported-versions| |supported-implementations|
         | |commits-since|
 
-.. |docs| image:: https://readthedocs.org/projects/python-mypy-structured-data/badge/?style=flat
-    :target: https://readthedocs.org/projects/python-mypy-structured-data
+.. |docs| image:: https://readthedocs.org/projects/mypy-structured-data/badge/?version=latest
+    :target: https://mypy-structured-data.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
 
 .. |travis| image:: https://travis-ci.org/mwchase/python-mypy-structured-data.svg?branch=master
@@ -89,7 +89,7 @@ Installation
 Documentation
 =============
 
-https://python-mypy-structured-data.readthedocs.io/
+https://mypy-structured-data.readthedocs.io/
 
 Development
 ===========
