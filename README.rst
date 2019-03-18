@@ -10,7 +10,7 @@ Overview
     * - docs
       - |docs|
     * - tests
-      - | |travis| |appveyor|
+      - | |travis| |appveyor| |requires|
         | |codecov|
         | |codacy| |codebeat| |codeclimate| |scrutinizer|
     * - package
@@ -28,6 +28,10 @@ Overview
 .. |appveyor| image:: https://ci.appveyor.com/api/projects/status/github/mwchase/python-mypy-structured-data?branch=master&svg=true
     :alt: AppVeyor Build Status
     :target: https://ci.appveyor.com/project/mwchase/python-mypy-structured-data
+
+.. |requires| image:: https://requires.io/github/mwchase/python-mypy-structured-data/requirements.svg?branch=master
+    :alt: Requirements Status
+    :target: https://requires.io/github/mwchase/python-mypy-structured-data/requirements/?branch=master
 
 .. |codecov| image:: https://codecov.io/github/mwchase/python-mypy-structured-data/coverage.svg?branch=master
     :alt: Coverage Status
